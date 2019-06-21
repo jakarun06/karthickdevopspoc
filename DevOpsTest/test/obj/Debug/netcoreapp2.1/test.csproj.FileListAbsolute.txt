@@ -1,0 +1,14 @@
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\bin\Debug\netcoreapp2.1\test.deps.json
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.json
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\bin\Debug\netcoreapp2.1\test.runtimeconfig.dev.json
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\bin\Debug\netcoreapp2.1\test.dll
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\bin\Debug\netcoreapp2.1\test.pdb
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.csprojAssemblyReference.cache
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.csproj.CoreCompileInputs.cache
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.RazorAssemblyInfo.cache
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.RazorAssemblyInfo.cs
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.AssemblyInfoInputs.cache
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.AssemblyInfo.cs
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.RazorTargetAssemblyInfo.cache
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.dll
+c:\users\karthickkumarm\source\repos\DevOpsTest\test\obj\Debug\netcoreapp2.1\test.pdb
